@@ -11,8 +11,8 @@ Você terá:
 
 ### Pré-requisitos
 
-- Docker Desktop instalado  
-- Docker Compose (já incluso no Docker Desktop)
+- Docker instalado  
+- Docker Compose
 
 ### Como Rodar
 
